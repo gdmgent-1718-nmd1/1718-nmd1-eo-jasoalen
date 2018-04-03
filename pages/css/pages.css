@@ -15,4 +15,8 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
-/* Voeg jouw css hieraan toe */
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: hsla(327, 65, 56, 1);
+}
